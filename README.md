@@ -175,7 +175,7 @@ IoT Sensor > FastAPI Backend > PostgreSQL > REST API > React Frontend > Staff Br
 ## Screenshots and Diagrams
 
 ### Dashboard Overview
-![Dashboard UI - compliance donut chart, status tiles, and room cards](images/dashboard-overview.png)
+![Dashboard UI - compliance donut chart, status tiles, and room cards](images/Screenshot 2026-07-20 143346.png)
 
 ### Compliance Report Page
 ![Reports page - 11-column compliance table with filters and export buttons](images/Screenshot 2026-07-20 142014.png)
