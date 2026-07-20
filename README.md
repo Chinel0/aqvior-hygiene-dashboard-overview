@@ -187,7 +187,7 @@ IoT Sensor > FastAPI Backend > PostgreSQL > REST API > React Frontend > Staff Br
 ![Overdue Rooms detail - horizontal bar chart ranked by hours overdue](images/Screenshot 2026-07-20 142145.png)
 
 ### System Architecture Diagram
-![Architecture diagram - sensors, FastAPI, PostgreSQL, EC2, nginx, React SPA](images/architecture-diagram.jpg)
+![Architecture diagram - sensors, FastAPI, PostgreSQL, EC2, nginx, React SPA](images/User flow.jpg)
 
 ---
 
