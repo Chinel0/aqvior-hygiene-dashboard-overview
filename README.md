@@ -1,5 +1,11 @@
 # Aqvior Hygiene Compliance Dashboard
 
+**Turning manual compliance checks into real-time hygiene monitoring — one room at a time.**
+
+![Status](https://img.shields.io/static/v1?label=STATUS&message=PROTOTYPE+COMPLETE&color=2ea44f&style=for-the-badge) ![React](https://img.shields.io/static/v1?label=&message=React+19&color=61DAFB&style=for-the-badge&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&style=for-the-badge&logo=fastapi&logoColor=white) ![App](https://img.shields.io/static/v1?label=&message=APP&color=FF6B6B&style=for-the-badge) ![Portfolio](https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=8A63D2&style=for-the-badge) ![Last Updated](https://img.shields.io/static/v1?label=LAST+UPDATED&message=MARCH+-+JULY+2026&color=8A63D2&style=for-the-badge)
+
+![Aqvior Hygiene Compliance Dashboard overview](images/dashboard-hero.png)
+
 **Portfolio Case Study · Chinelo Lydia Nweke · Furtwangen University IBS6 · Summer Semester 2026**
 
 ---
