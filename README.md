@@ -181,7 +181,7 @@ IoT Sensor > FastAPI Backend > PostgreSQL > REST API > React Frontend > Staff Br
 ![Reports page - 11-column compliance table with filters and export buttons](images/Screenshot 2026-07-20 142014.png)
 
 ### Individual Room Analytics
-![Room Details - compliance status card, line chart, and event history table](images/room-analytics.png)
+![Room Details - compliance status card, line chart, and event history table](images/Screenshot 2026-07-20 142249.png)
 
 ### Overdue Rooms Drill-Down
 ![Overdue Rooms detail - horizontal bar chart ranked by hours overdue](images/Screenshot 2026-07-20 142145.png)
