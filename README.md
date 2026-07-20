@@ -184,7 +184,7 @@ IoT Sensor > FastAPI Backend > PostgreSQL > REST API > React Frontend > Staff Br
 ![Room Details - compliance status card, line chart, and event history table](images/room-analytics.png)
 
 ### Overdue Rooms Drill-Down
-![Overdue Rooms detail - horizontal bar chart ranked by hours overdue](images/overdue-rooms.png)
+![Overdue Rooms detail - horizontal bar chart ranked by hours overdue](images/Screenshot 2026-07-20 142145.png)
 
 ### System Architecture Diagram
 ![Architecture diagram - sensors, FastAPI, PostgreSQL, EC2, nginx, React SPA](images/architecture-diagram.jpg)
