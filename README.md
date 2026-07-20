@@ -174,22 +174,20 @@ IoT Sensor > FastAPI Backend > PostgreSQL > REST API > React Frontend > Staff Br
 
 ## Screenshots and Diagrams
 
-*Replace the placeholders below with your own screenshots before publishing.*
-
 ### Dashboard Overview
-![Dashboard UI - compliance donut chart, status tiles, and room cards](placeholder-dashboard-ui.png)
+![Dashboard UI - compliance donut chart, status tiles, and room cards](dashboard-overview.png)
 
 ### Compliance Report Page
-![Reports page - 11-column compliance table with filters and export buttons](placeholder-reports-ui.png)
+![Reports page - 11-column compliance table with filters and export buttons](reports-page.png)
 
 ### Individual Room Analytics
-![Room Details - compliance status card, line chart, and event history table](placeholder-room-details-ui.png)
+![Room Details - compliance status card, line chart, and event history table](room-details.png)
 
 ### Overdue Rooms Drill-Down
-![Overdue Rooms detail - horizontal bar chart ranked by hours overdue](placeholder-overdue-detail-ui.png)
+![Overdue Rooms detail - horizontal bar chart ranked by hours overdue](overdue-rooms.png)
 
-### System Architecture Diagram
-![Architecture diagram - sensors, FastAPI, PostgreSQL, EC2, nginx, React SPA](placeholder-architecture-diagram.png)
+### User Flow Diagram
+![User flow diagram - authentication through dashboard navigation to report download](user-flow-diagram.jpg)
 
 ---
 
